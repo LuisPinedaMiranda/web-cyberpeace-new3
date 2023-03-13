@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    border: 3px solid blue;
+}
+.conte{
+    border: 3px solid red;
+    width: 200px;
+    margin: auto;
+}
